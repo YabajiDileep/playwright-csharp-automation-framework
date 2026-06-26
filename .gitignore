@@ -1,0 +1,8 @@
+bin/
+obj/
+*.user
+.vs/
+Reports/Screenshots/
+Reports/TestReport.html
+*.suo
+.DS_Store
